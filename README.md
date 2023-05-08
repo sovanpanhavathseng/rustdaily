@@ -1,0 +1,2 @@
+# rustdaily
+All about rust
