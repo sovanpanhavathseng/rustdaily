@@ -1,0 +1,24 @@
+Memory management in rst
+
+1. mastering the borrow checker
+2. allocations
+3. mutability, borrowing and owning
+4. lifetimes
+5. memory representation
+6. alightment
+7. complex enumerations
+8. unions
+9. shared pointers
+
+10. the cell module
+11. cells 
+12. refcell
+13. the rc module
+
+
+
+Summary of the memory management in Rust:
+how borrow checker work?
+how memory representation of structures and enum in rust and make your rust code compatible with the C/C++
+
+How rust manages shared pointers for complex structures where the rust borrow checker can make your coding experience much more difficult
