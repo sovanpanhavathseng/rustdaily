@@ -1,0 +1,27 @@
+1. using threads to process your data
+
+2. send and sync traits how does rust archieve memory safety?
+2.1. the send trait
+2.2. the sync trait
+2.3. other type of the concurrenty in rust
+
+3. basic threading in rust - creating and managing threads
+3.1. understanding the multithreading
+3.2. creating threads
+3.3. panicking in rust
+
+4. moving data between threads
+4.1. the move keyword
+4.2. sharing data between threads
+4.3. channels between threads
+
+5. crates to make multithreading easier and faster
+5.1. non blocking data structures
+5.2. scoped threads
+5.3. thread pooling
+5.4. parallel iterators
+
+== to see the summary of this chapter we saw how our sequential algorithms can easily gain performance by running in parallel. This parallelism can be obtained in multiple way 
+we learned about the multithreading. how multithreading is really safe in rust and we can take advantage of the crate ecosystem to improve our performance even more.
+
+
